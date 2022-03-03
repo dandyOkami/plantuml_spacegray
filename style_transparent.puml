@@ -7,7 +7,7 @@
 !$THEME = "spacegray"
 
 !if %not(%variable_exists("$BGCOLOR"))
-!$BGCOLOR = "2A303C"
+!$BGCOLOR = "transparent"
 !endif
 
 skinparam backgroundColor $BGCOLOR
